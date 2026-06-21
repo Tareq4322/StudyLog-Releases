@@ -5,7 +5,6 @@ StudyLog is a comprehensive Android application designed to help students manage
 <p align="center">
   <img src="mockups/mockup_1.png" width="30%" alt="StudyLog Dashboard" />
   <img src="mockups/mockup_2.png" width="30%" alt="StudyLog Calendar" />
-  <img src="mockups/mockup_3.png" width="30%" alt="StudyLog Focus Timer" />
 </p>
 
 <details>
