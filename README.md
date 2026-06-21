@@ -14,7 +14,6 @@ StudyLog is a comprehensive Android application designed to help students manage
     <tr>
       <td><img src="mockups/mockup_4.png" width="200" alt="Screenshot 4" /></td>
       <td><img src="mockups/mockup_5.png" width="200" alt="Screenshot 5" /></td>
-      <td><img src="mockups/mockup_6.png" width="200" alt="Screenshot 6" /></td>
     </tr>
     <tr>
       <td><img src="mockups/mockup_7.png" width="200" alt="Screenshot 7" /></td>
