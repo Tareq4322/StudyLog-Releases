@@ -3,8 +3,37 @@
 StudyLog is a comprehensive Android application designed to help students manage their academic life. It represents the perfect synergy of robust functionality and sleek, modern design.
 
 <p align="center">
-  <img src="app_preview.png" width="300" alt="App Preview" />
+  <img src="mockups/mockup_1.png" width="30%" alt="StudyLog Dashboard" />
+  <img src="mockups/mockup_2.png" width="30%" alt="StudyLog Calendar" />
+  <img src="mockups/mockup_3.png" width="30%" alt="StudyLog Focus Timer" />
 </p>
+
+<details>
+  <summary>📱 View More Screenshots (Click to Expand)</summary>
+  <br/>
+  <table align="center">
+    <tr>
+      <td><img src="mockups/mockup_4.png" width="200" alt="Screenshot 4" /></td>
+      <td><img src="mockups/mockup_5.png" width="200" alt="Screenshot 5" /></td>
+      <td><img src="mockups/mockup_6.png" width="200" alt="Screenshot 6" /></td>
+    </tr>
+    <tr>
+      <td><img src="mockups/mockup_7.png" width="200" alt="Screenshot 7" /></td>
+      <td><img src="mockups/mockup_8.png" width="200" alt="Screenshot 8" /></td>
+      <td><img src="mockups/mockup_9.png" width="200" alt="Screenshot 9" /></td>
+    </tr>
+    <tr>
+      <td><img src="mockups/mockup_10.png" width="200" alt="Screenshot 10" /></td>
+      <td><img src="mockups/mockup_11.png" width="200" alt="Screenshot 11" /></td>
+      <td><img src="mockups/mockup_12.png" width="200" alt="Screenshot 12" /></td>
+    </tr>
+    <tr>
+      <td><img src="mockups/mockup_13.png" width="200" alt="Screenshot 13" /></td>
+      <td><img src="mockups/mockup_14.png" width="200" alt="Screenshot 14" /></td>
+      <td><img src="mockups/mockup_15.png" width="200" alt="Screenshot 15" /></td>
+    </tr>
+  </table>
+</details>
 
 ## 📥 Download
 
